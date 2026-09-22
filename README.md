@@ -144,8 +144,8 @@ This keeps the project portable for teammates and GitHub users.
 
 ## Author
 
-Add your name and team members here.
+Anu Rani
 
 ## License
 
-Add the project's license here if your course or team requires one.
+This project is for academic/educational purposes. All rights reserved by the authors.
